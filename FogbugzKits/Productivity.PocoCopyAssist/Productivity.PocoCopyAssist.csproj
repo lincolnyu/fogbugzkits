@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1DAA4089-B6C8-4246-B100-B21BEBCEE3EF}</ProjectGuid>
+    <ProjectGuid>{1677F5B9-7CE6-46D2-8777-5C87DB067672}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>FogbugzKits.GapFinder</RootNamespace>
-    <AssemblyName>gapfinder</AssemblyName>
+    <RootNamespace>Productivity.PocoCopyAssist</RootNamespace>
+    <AssemblyName>Productivity.PocoCopyAssist</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

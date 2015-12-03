@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FogbugzKits.GapFinder", "FogbugzKits.GapFinder\FogbugzKits.GapFinder.csproj", "{1DAA4089-B6C8-4246-B100-B21BEBCEE3EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Productivity.PocoCopyAssist", "Productivity.PocoCopyAssist\Productivity.PocoCopyAssist.csproj", "{1677F5B9-7CE6-46D2-8777-5C87DB067672}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1DAA4089-B6C8-4246-B100-B21BEBCEE3EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1DAA4089-B6C8-4246-B100-B21BEBCEE3EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1DAA4089-B6C8-4246-B100-B21BEBCEE3EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1677F5B9-7CE6-46D2-8777-5C87DB067672}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1677F5B9-7CE6-46D2-8777-5C87DB067672}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1677F5B9-7CE6-46D2-8777-5C87DB067672}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1677F5B9-7CE6-46D2-8777-5C87DB067672}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
